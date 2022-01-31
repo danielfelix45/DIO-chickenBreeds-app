@@ -1,0 +1,15 @@
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\DIO.chickenbreed.exe
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\DIO.chickenbreed.deps.json
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\DIO.chickenbreed.runtimeconfig.json
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\DIO.chickenbreed.dll
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\ref\DIO.chickenbreed.dll
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\bin\Debug\net6.0\DIO.chickenbreed.pdb
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.csproj.AssemblyReference.cache
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.AssemblyInfoInputs.cache
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.AssemblyInfo.cs
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.csproj.CoreCompileInputs.cache
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.dll
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\ref\DIO.chickenbreed.dll
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.pdb
+C:\Users\note\source\repos\DIO\DIO.chickenbreeds\obj\Debug\net6.0\DIO.chickenbreed.genruntimeconfig.cache
